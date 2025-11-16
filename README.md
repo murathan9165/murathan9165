@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there 👋, my name is Murathan Kocaman
+
+I am from İstanbul, Türkiye 🇹🇷, currently studying Economics at Kenyon College with a concentration on Integrated Program in Humane Studies.
+
+## 🔭 I’m currently working on
+
+An [AI RAG Agent](https://github.com/murathan9165/RAG-miniproject3-iphs-391-kocaman) designed to provide clear, accurate, and sourced answers to common questions about the U.S. F-1 student visa process.
+
+## 🌱 I’m currently learning
+
+
+
+- 👯 I’m looking to collaborate on ...
 
 <!--
 **murathan9165/murathan9165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
