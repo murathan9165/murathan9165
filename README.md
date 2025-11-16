@@ -12,8 +12,8 @@ An [AI RAG Agent](https://github.com/murathan9165/RAG-miniproject3-iphs-391-koca
 
 ## ⚡️ I enjoy
 
-Fitness 🏋️‍♀️ 
-Fashion 👔
+- Fitness 🏋️‍♀️ 
+- Fashion 👔
 
 <!--
 **murathan9165/murathan9165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
