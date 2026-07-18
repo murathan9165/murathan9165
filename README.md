@@ -3,8 +3,9 @@
 ### i'm from İstanbul, Türkiye, currently studying Economics at Kenyon College with a concentration on human-centered ai.
 
 ## i’m currently learning
-- ai agent loop engineering.
-- electronics w/ arduino.
+- electronics
+- building autonomous fpv drones.
+- C  
 
 ## i enjoy
 - learning.
