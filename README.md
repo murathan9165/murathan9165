@@ -10,9 +10,9 @@
 - C/C++
 
 ## i enjoy
+- building things with my hands and brain.
 - learning.
-- building useful things.
-- working out.
+- food.
 
 <!--
 **murathan9165/murathan9165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
