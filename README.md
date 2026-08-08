@@ -1,6 +1,6 @@
 # hi, i'm Murathan Kocaman.
 
-### i'm from İstanbul, Türkiye, currently studying Economics at Kenyon College with a concentration on human-centered ai.
+### i'm from İstanbul, Türkiye. Currently a student at Kenyon College.
 
 ## i’m currently learning
 - electronics
