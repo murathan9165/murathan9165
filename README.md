@@ -1,6 +1,6 @@
 # hi, i'm Murathan Kocaman.
 
-### i'm from İstanbul, Türkiye. currently aspiring to build autonomous fpv quadcopters.
+### i'm from istanbul, türkiye. currently building autonomous fpv quadcopters.
 
 ## i’m currently learning
 - electronics
