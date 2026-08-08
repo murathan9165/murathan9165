@@ -5,7 +5,9 @@
 ## i’m currently learning
 - electronics
 - building autonomous fpv drones.
-- C  
+- ArduPilot
+- Gazebo (SITL)
+- C/C++
 
 ## i enjoy
 - learning.
