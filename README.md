@@ -1,6 +1,6 @@
 # hi, i'm Murathan Kocaman.
 
-### i'm from İstanbul, Türkiye. Currently a student at Kenyon College.
+### i'm from İstanbul, Türkiye. currently aspiring to build autonomous fpv quadcopters.
 
 ## i’m currently learning
 - electronics
